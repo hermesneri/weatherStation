@@ -1,7 +1,6 @@
 /*************************************************
 *                WEATHER STATION                 *
 autor: Hermes Neri -  http://github.com/hermesneri
-contact: hermesneri@hotmail.com
 download: https://github.com/hermes/weatherstation
 version: 1.0.0 - December, 2023
 ________________________________________________*/
